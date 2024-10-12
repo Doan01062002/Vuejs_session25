@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "name": "quét nhà",
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "rửa bát",
+      "status": true,
+      "id": 2
+    }
+  ]
+}
